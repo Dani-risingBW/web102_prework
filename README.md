@@ -27,7 +27,9 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-Loom
+Microsoft Cilpchamp
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/dd2bd383-1311-47ac-acfa-558e316035c2)
+
 
 ## Notes
 
